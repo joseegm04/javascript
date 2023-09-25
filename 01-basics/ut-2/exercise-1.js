@@ -18,7 +18,7 @@ console.log("%c" + InfoTextGreen, 'color: green; font-size: 16;');
 console.warn(WarnText);
 console.error(ErrorText);
 console.table([
-    {'name': nombre1, 'age': edad1, 'city': ciudad1},
-    {'name': nombre2, 'age': edad2, 'city': ciudad2},
-    {'name': nombre3, 'age': edad3, 'city': ciudad3}
+    {name: nombre1, age: edad1, city: ciudad1},
+    {name: nombre2, age: edad2, city: ciudad2},
+    {name: nombre3, age: edad3, city: ciudad3}
 ]);
